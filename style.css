@@ -1,0 +1,25 @@
+.formstyle{
+    border:2px solid;
+    height: 600px;
+    width:300px;
+    margin:auto;
+    padding:20px;
+    background-color: pink
+}
+#calc{
+ border:3px solid royalblue;
+    width:250px;
+    margin:auto;
+    padding:20px ;
+    background-color:skyblue ;
+}
+input{
+    width:20px;
+    margin:5px;
+    padding:25px ;
+    font-size: 20px;
+}
+#clear{
+    width: 260px;
+    background-color: red;
+}
